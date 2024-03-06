@@ -1,0 +1,19 @@
+.test {
+    color: red;
+}
+.main_Nav {
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.items {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+.main {
+    margin-right: 10px;
+    color: white;
+}
