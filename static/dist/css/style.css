@@ -1,8 +1,19 @@
 * {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
-.test {
-  background-color: red;
-}/*# sourceMappingURL=style.css.map */
+.topHead {
+    display: flex;
+    padding: 10px;
+}
+
+.newsHead {
+background-color: black;
+color: white;
+text-align: center;
+}
+
+.news_list {
+    width: 100%;
+}
